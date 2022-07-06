@@ -1,0 +1,5 @@
+T, B, C, A, D
+B, X, C, D, D
+H, Y, C, 3, M
+R, 7, C, M, G
+W, N, M, P, E
